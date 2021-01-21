@@ -81,5 +81,10 @@
   "Hayes & Harlington": "lab",
   "Ealing North": "lab",
   "Hampstead & Kilburn": "lab",
-  "Holborn & St Pancras": "lab"
+  "Westminster North": "lab",
+  "Holborn & St Pancras": "lab",
+  "Brent Central": "lab",
+  "Islington North": "lab",
+  "Edmonton": "lab",
+  "Chingford & Woodford Green": "con"
 }
