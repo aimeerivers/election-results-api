@@ -7,8 +7,6 @@
   "Mid Ulster": "sf",
   "North Antrim": "dup",
 
-  // SCOTLAND
-
   "Na H-Eileanan An Iar [Western Isles]": "snp",
   "Caithness, Sutherland & Easter Ross": "ld",
   "Orkney & Shetland": "ld",
@@ -46,8 +44,6 @@
   "Glenrothes": "snp",
   "Angus": "snp",
 
-  // ENGLAND
-
   "Newcastle Upon Tyne North": "lab",
   "Berwick-Upon-Tweed": "con",
   "Workington": "con",
@@ -56,8 +52,6 @@
   "Tyneside North": "lab",
   "Wansbeck": "lab",
   "Blyth Valley": "con",
-
-  // WALES
 
   "Ynys Mon": "con",
   "Arfon": "pc",
@@ -70,8 +64,6 @@
   "Wrexham": "con",
   "Montgomeryshire": "con",
   "Clywd South": "con",
-
-// LONDON
 
   "Ruislip, Northwood & Pinner": "con",
   "Harrow East": "con",
